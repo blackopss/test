@@ -59,7 +59,7 @@ const commands = {
 			} else if (suffix.toLowerCase() == "jazz") {
 				radio = "WineFarmAndTouristradio";
 			} else if (suffix.toLowerCase() == "dubstep") {
-				radio = "ELECTROPOP-MUSIC";
+				radio = "https://www.youtube.com/watch?v=C6brqAkArmA";
 			} else {
 				embed.setDescription("• Insert a correct radio to play.\n\n`[-]` **Available radios:** `Rap, jazz & dubstep`");
 				embed.setColor("#b92727");
